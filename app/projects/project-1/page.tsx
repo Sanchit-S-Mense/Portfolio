@@ -2,7 +2,7 @@ import { getProjectFromDetailsTxt } from "@/lib/data";
 import ProjectDetailView from "@/components/ProjectDetailView";
 import { notFound } from "next/navigation";
 
-export const dynamic = "force-dynamic";
+export const dynamic = "force-static";
 
 export default function ProjectOnePage() {
   const project = getProjectFromDetailsTxt("project-1");

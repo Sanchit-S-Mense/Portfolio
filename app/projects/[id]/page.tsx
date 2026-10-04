@@ -1,8 +1,13 @@
-import { getProjectFromDetailsTxt, getProjectById } from "@/lib/data";
+import { getProjectFromDetailsTxt, getProjectById, getPortfolioData } from "@/lib/data";
 import ProjectDetailView from "@/components/ProjectDetailView";
 import { notFound } from "next/navigation";
 
-export const dynamic = "force-dynamic";
+export const dynamic = "force-static";
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return getPortfolioData().projects.map((project) => ({ id: project.id }));
+}
 
 interface ProjectDynamicPageProps {
   params: Promise<{ id: string }>;
