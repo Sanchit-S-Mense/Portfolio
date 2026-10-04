@@ -1,0 +1,8 @@
+Title: Others & Hackathons
+Description: Events, hackathons, and open source initiatives including Paper Presentation (Avalanche) and Shark Tank (GAT Bangalore).
+GitHub: https://github.com/sanchitmense/Portfolio
+CloneCommand: git clone https://github.com/sanchitmense/Portfolio.git
+Tags: Paper Presentation(Avalanche), Shark Tank(GAT Bangalore), Next.js, React, Tailwind CSS
+Architecture: React Server Components, Matrix Digital Rain Visualizer, Tagged Text Data Parser
+Highlights: Matrix rain animation, Morpheus pill selector with collaborate lock, Tagged data loader
+Images: /projects/project-3/placeholder1.svg, /projects/project-3/placeholder2.svg

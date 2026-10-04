@@ -1,0 +1,13 @@
+# Karigari Connect
+Description: An Android application for marginalised artisans which acts as a 'virtual business Manager'
+GitHub: https://github.com/Sanchit-S-Mense/Karigiri-Connect
+Tags: Flutter, Dart, Gradle, FastAPI
+
+# Air Quality Monitoring system
+Description: A working Air Quality monitoring system that monitors Air Quality using temperature and humidity sensors and plots them on a 2D-Map
+GitHub: https://github.com/sanchitmense/task-manager
+Tags: Arduino UNO, Python, Leaflet.js , C
+
+# Others
+Description: Events and hackathons I have participates in
+Tags: Paper Presentation(Avalanche) , Shark Tank(GAT Bangalore),

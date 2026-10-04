@@ -1,0 +1,8 @@
+Title: Others & Hackathons
+Description: Events, hackathons, and open source initiatives including Paper Presentation (Avalanche) and Shark Tank (GAT Bangalore).
+GitHub: https://github.com/sanchitmense/Portfolio
+CloneCommand: git clone https://github.com/sanchitmense/Portfolio.git
+Tags: Paper Presentation(Avalanche), Shark Tank(GAT Bangalore)..etc
+Events: Maths Paper Presentation Avalanche, Mine the Flag, Shark Tank(Gat Bangalore)
+Highlights: Presented research paper on Neural Networks
+Images: /projects/project-3/placeholder1.svg, /projects/project-3/placeholder2.svg

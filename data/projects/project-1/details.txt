@@ -1,0 +1,9 @@
+Title: Karigari Connect
+Description: An Android application for marginalised artisans which acts as a 'virtual business Manager' to manage inventory and track catalog orders.
+GitHub: https://github.com/Sanchit-S-Mense/Karigiri-Connect
+CloneCommand: git clone https://github.com/Sanchit-S-Mense/Karigiri-Connect.git
+Tags: Flutter, Dart, Gradle, Collaborated Project!!
+Architecture: Modular Flutter Layer, Python + Fast API Backend, Local Storage & Offline Caching
+Highlights: Lightweight Framework to support lower android versions, Multilingual voice support, SIH2026 Project - PS: SIH26090
+Figma Preview: https://www.figma.com/proto/U9FNFhNkfZNmRLawAevcff/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%97%E0%A4%B0%E0%A5%80-Connect?node-id=3-55&starting-point-node-id=3%3A55&t=vKqMbFH6Z6qb2wQY-1
+Credits: AI-based Image Enhancement - https://github.com/atharvaamd/image_enhancer, Voice Cataloger - https://github.com/shrushtidiggai2521/mutlilanguage_auto_catalog

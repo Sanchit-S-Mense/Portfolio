@@ -1,0 +1,9 @@
+Title: Air Quality Monitoring system
+Description: A working Air Quality monitoring system that monitors Air Quality using temperature and humidity sensors and plots them on an interactive 2D-Map in real-time.
+GitHub: https://github.com/sanchitmense/task-manager
+CloneCommand: git clone https://github.com/sanchitmense/task-manager.git
+Tags: Arduino UNO, Python, Leaflet.js, C
+Architecture: DHT11 Temperature and Humidity sensor, MQ135 gas sensor, Breadboard Circuit
+Highlights: Real-time AQI reading logged in csv file, Classifies zones on Map into red-yellow-green based on AQI
+Figma Preview: NULL
+Images: /projects/project-2/placeholder-1.png
